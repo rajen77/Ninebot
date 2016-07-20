@@ -13,7 +13,7 @@
         <item>450WH</item>
         <item>50.0kg</item>
         <item>25°C</item>
-        <item>Move at a constant speed of 15 km/h</item>
+        <item>Állandó 15 km/h sebességgel mozog</item>
         <item>2 alkalommal</item>
     </string-array>
     <string-array name="error_code">
@@ -37,18 +37,18 @@
     <string-array name="error_code_content">
         <item>A motor szenzora vagy a vezetés rendellenes</item>
         <item>A jármű nagyteljesítményű kapcsolócsöve megsérült</item>
-        <item>Other faults of motor driver of vehicle</item>
-        <item>Attitude sensor of vehicle is abnormal</item>
-        <item>Internal communication of vehicle is abnormal</item>
-        <item>Commutation circuit of battery is abnormal</item>
+        <item>Egyéb motoros hibák a járműben</item>
+        <item>A jármű helyzet érzékelője rendellenes</item>
+        <item>A jármű belső kommunikációja rendellenes</item>
+        <item>Az akkumulátor kommunikációs áramkore rendellenes</item>
         <item>1.Akkumulátor kimeneti feszültsége rendellenes</item>
         <item>2.Akkumulátor kimeneti feszültsége rendellenes</item>
         <item>1.Akkumulátor hőmérséklete rendellenes</item>
         <item>2.Akkumulátor hőmérséklete rendellenes</item>
         <item>Pedál szenzor rendellenes</item>
-        <item>12VDC or 5VDC low voltage power output inside the vehicle is abnormal</item>
+        <item>12VDC vagy 5V kisfeszültségű teljesítmény a jármű belsejében rendellenes</item>
         <item>Töltő rendellenes</item>
-        <item>Factory test retaining</item>
+        <item>Gyári teszt visszatartás</item>
         <item>Dip angle of the vehicle is too large in the process of driving</item>
         <item>Nem definiált hibakód</item>
     </string-array>
